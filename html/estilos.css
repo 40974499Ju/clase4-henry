@@ -1,8 +1,6 @@
-.fondo {
-    background-color: rgb(146, 104, 104);
-}
-
-.miTexto {
-    font-size: 80px;
-    color: green;
+body{
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #d76d6d;
+    margin: 20px;
 }
